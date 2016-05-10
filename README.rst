@@ -2,7 +2,7 @@
 Python 入門
 ========================================
 
-因為要教基礎的 Python 課程，所以做了些簡單的範例 :P
+因為要教基礎的 Python 課程，所以做了些簡單的範例 :stuck_out_tongue_closed_eyes:
 
 Jupyter Notebooks render 結果 :
 
